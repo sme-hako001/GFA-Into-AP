@@ -1,0 +1,48 @@
+//
+//  Localizable.strings
+//  GFA-Documents
+//
+//  Created by Khachatur Hakobyan Sony on 2/1/23.
+//
+
+/* Document Management View title and controls */
+"documentManagementViewCancelButtonTitle" = "Cancel";
+"documentManagementViewApplyButtonTitle" = "Apply";
+
+
+/* Alert titles and messages */
+"alertConfirmDeleteDocumentTitle" = "The document will be deleted.";
+"alertConfirmDeleteDocumentMessage" = "Are you sure you want to proceed?";
+"alertLoginFailedTitle" = "Login Failed";
+"alertDocuemntsListRequestFailed" = "Unable to load documents";
+"alertDocumentManagementRequestFailed" = "Document management request failed";
+"alertDocumentManagementUnavailable" = "Unable to send document management request";
+"alertDownloadDocumentFailed" = "You don't have permissions to load and view documents.";
+"alertTagsRequestFailed" = "Unable to load tags";
+"alertStickersRequestFailed" = "Unable to load stickers";
+
+/* Alert button titles */
+"alertCloseButtonTitle" = "Close";
+"alertOKButtonTitle" = "OK";
+"alertYesButtonTitle" = "Yes";
+"alertNoButtonTitle" = "No";
+"alertNoPermissionsTitle" = "Access Denied";
+
+/* Document type labels */
+"sheetDocumentsPNGTypeLabel" = "PNG";
+"sheetDocumentsGIFTypeLabel" = "GIF";
+"sheetDocumentsJPEGTypeLabel" = "JPEG";
+"sheetDocumentsPDFTypeLabel" = "PDF";
+"sheetDocumentsJSONTypeLabel" = "JSON";
+"sheetDocumentsMSWordTypeLabel" = "MS Word";
+"sheetDocumentsMSExcelTypeLabel" = "MS Excel";
+"sheetDocumentsMSPowerPointTypeLabel" = "MS PowerPoint";
+"sheetDocumentsUnknownTypeLabel" = "unknown";
+
+/* Request failed messages */
+"requestFailedServerErrorMessage" = "Server error.";
+
+/* No data yet labels */
+"noDataLabel" = "No data available";
+"noDataYetInitializingDataLongLabel" = "Initializing data from local storage...";
+"noDataYetLoadingDataLongLabel" = "Loading data from the server...";
